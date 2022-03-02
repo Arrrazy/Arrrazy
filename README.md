@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arrrazy
-- 👀 I’m interested in Creative Developer
+- 👀 I’m interested in Creative FrontEnd Developer
 - 🌱 I’m currently learning HTML, CSS, JS, WebGL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
